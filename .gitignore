@@ -4,3 +4,10 @@
 
 /.vs
 /PortfolioWebsite/.vs/PortfolioWebsite
+/PortfolioWebsite/.vs/ProjectEvaluation
+/PortfolioWebsite/PortfolioWebsite/bin/Debug/net8.0
+/PortfolioWebsite/PortfolioWebsite/compilerconfig.json
+/PortfolioWebsite/PortfolioWebsite/compilerconfig.json.defaults
+/PortfolioWebsite/PortfolioWebsite/obj/PortfolioWebsite.csproj.nuget.dgspec.json
+/PortfolioWebsite/PortfolioWebsite/obj/project.assets.json
+/PortfolioWebsite/PortfolioWebsite/obj/project.nuget.cache
