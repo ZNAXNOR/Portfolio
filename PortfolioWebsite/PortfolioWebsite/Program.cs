@@ -1,7 +1,16 @@
+using Microsoft.EntityFrameworkCore;
+using PortfolioWebsite.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+var services = builder.Services;
+
 builder.Services.AddControllersWithViews();
+
+// Database
+var MSSQLdatabase = builder.Configuration.GetConnectionString("SimpleWebsiteDb");
+services.AddDbContext<DatabaseContext>(options => options.UseSqlServer(MSSQLdatabase));
 
 var app = builder.Build();
 

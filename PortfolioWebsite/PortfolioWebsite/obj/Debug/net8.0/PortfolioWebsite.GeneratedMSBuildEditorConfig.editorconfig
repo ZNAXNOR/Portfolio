@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = G:\OMKAR\Visual Studio\Portfolio\PortfolioWebsite\PortfolioWebsite
 build_property._RazorSourceGeneratorDebug = 
 
+[G:/OMKAR/Visual Studio/Portfolio/PortfolioWebsite/PortfolioWebsite/Views/AboutUs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRVc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [G:/OMKAR/Visual Studio/Portfolio/PortfolioWebsite/PortfolioWebsite/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
